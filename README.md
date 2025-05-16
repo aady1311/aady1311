@@ -79,10 +79,7 @@ Check out my full portfolio and live demos at: [aditya.techboy.in](https://adity
 <p>
   <a href="https://www.linkedin.com/in/aditya1311/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/aady1311" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  </a> 
   <a href="https://www.instagram.com/iamadditya" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
