@@ -6,19 +6,22 @@
 
 <div align="center">
   🎓 <strong>About Me</strong>
-
   <br/><br/>
-
-  👋 Hi, I’m <strong>Aditya Yadav</strong>  
-  🎓 B.Tech Information Technology (Second Year)  
-  💼 Full-Stack Engineer Intern (Paid) @ ZA Charity Feed Foundation  
-  💻 Working with Next.js, React, TypeScript, Node.js, Prisma, Redux & Redis  
-  🚀 Passionate about building scalable web applications and real-world products  
-
+  
+  👋 Hi, I’m <strong>Aditya Yadav</strong>
+  <br/>
+  🎓 B.Tech Information Technology (Second Year)
+  <br/>
+  💼 Full-Stack Engineer Intern (Paid) @ ZA Charity Feed Foundation
+  <br/>
+  💻 Working with Next.js, React, TypeScript, Node.js, Prisma, Redux & Redis
+  <br/>
+  🚀 Passionate about building scalable web applications and real-world products
   <br/><br/>
-
+  
   🔗 GitHub: <a href="https://github.com/aady1311">@aady1311</a>
 </div>
+
 
 
 ---
