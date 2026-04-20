@@ -27,8 +27,8 @@
 ---
 
 <div align="center">
-  🧰 Tech Stack & Tools
-
+  
+<h2 align="center">🚀 Tech Stack & Tools</h2>
  <p align="center">
 
   <!-- 🌐 Frontend -->
@@ -39,7 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
 
   <!-- ⚙️ Backend -->
@@ -58,6 +58,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+
+
+
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript" />
+<img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs" />
+<img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js" />
+<img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express" />
+<img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb" />
+<img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql" />
+<img src="https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase" />
+<img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker" />
+<img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
 
 </p>
 </div>
@@ -79,6 +97,11 @@ Check out my full portfolio and live demos at: [aditya.techboy.in](https://adity
     <td><a href="https://blog.techboy.in/">TechBoy Blog</a></td>
     <td>Personal technical blog</td>
     <td>React, TypeScript, PHP, Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td><a href="https://food-recipe.techboy.in/">Food Recipes</a></td>
+    <td>Personal technical blog</td>
+    <td>React, FastAPI, MYSQL</td>
   </tr>
   <tr>
     <td><a href="https://github.com/aady1311/curruncy-convertor">currency-convertor</a></td>
