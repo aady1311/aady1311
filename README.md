@@ -19,7 +19,6 @@
   🚀 Passionate about building scalable web applications and real-world products
   <br/><br/>
   
-  🔗 GitHub: <a href="https://github.com/aady1311">@aady1311</a>
 </div>
 
 
