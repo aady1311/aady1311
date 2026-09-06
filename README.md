@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 B.Tech Information Technology (2nd Year)  
+- 🎓 B.Tech Information Technology (3rd Year)  
 - 💼 Full Stack Engineer Intern @ ZA Charity Feed Foundation  
 - ⚡ Working with **Next.js, React, TypeScript, Node.js, Prisma, Redis**  
 - 🚀 Passionate about scalable web apps & real-world products  
